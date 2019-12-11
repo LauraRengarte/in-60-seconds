@@ -2,7 +2,7 @@
 
 ---
 
-## Vārds Arduino aizgūts no Ivreas bāra, kur pulcējās daži projekta dibinātāji.
+### Vārds Arduino aizgūts no Ivreas bāra, kur pulcējās daži projekta dibinātāji.
 
 ![IMAGE](https://external-preview.redd.it/BCZ_-ppi_D9nKLvrYaITvX3gUy-Y5VrRyCXCdfvOuDU.jpg?auto=webp&s=ae019640d8bfa40c5cd87a9405a2409f5de3f404)
 
@@ -10,16 +10,47 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+## Kas ir Arduino?
 @snapend
 
 @snap[east span-50]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png)
 @snapend
 
 @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+Arduino ir elektronikas un programmatūras platforma.
 @snapend
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+## Kas ir Atmega 328?
+@snapend
+
+@snap[east span-50]
+![IMAGE](https://images-na.ssl-images-amazon.com/images/I/31cJ3qYCS6L._SX425_.jpg)
+@snapend
+
+@snap[south span-100 text-white]
+Atmega 328 ir vienas mikroshēmas mikrokontrolieris.
+@snapend
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Customize Slide Layout]
+
+@snap[west span-50]
+## Kas ir ARDUINO NANO?
+@snapend
+
+@snap[east span-50]
+![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png)
+@snapend
+
+@snap[south span-100 text-white]
+Arduino ir elektronikas un programmatūras platforma.
+@snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
