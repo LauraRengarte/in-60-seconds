@@ -97,7 +97,7 @@ Kā programmēt Arduino?
 @img[shadow](http://www.littlearmrobot.com/uploads/3/8/4/8/38484491/arduino-blink-led-basic-code_orig.jpg)
 @snapend
 
----?color=linear-gradient(180deg, white 60%, black 40%)
+---?color=linear-gradient(180deg, white 55%, black 45%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
@@ -105,15 +105,11 @@ Kā programmēt Arduino?
 
 @snapend
 
-@snap[east span-25]
-![IMAGE](http://cdn1.shopium.ua/d/arduino/uploads/nano-pinout.jpg)
-@snapend
-
 @snap[south span-100 text-white]
 Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN uz integrētas shēmas vai elektronisko shēmu plates, kuru uzvedība-ieskaitot to, vai tas darbojas kā ieejas vai izejas-ir kontrolējama lietotājs izpildes laikā.
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---?color=linear-gradient(90deg, #5384AD 75%, white 25%)
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
@@ -129,11 +125,11 @@ Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN 
 @ulend
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---?color=linear-gradient(90deg, #5384AD 75%, white 25%)
 @title[Add A Little Imagination]
 
-@snap[north-west h4-white]
-#### Projekti, vēlētos īstenot:
+@snap[north-east h4-#5384AD]
+#### Projekti,kurus vēlētos īstenot:
 @snapend
 
 @snap[west span-100]
