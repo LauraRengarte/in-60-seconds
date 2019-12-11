@@ -55,7 +55,7 @@ Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolie
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Kāda Arduino NANO specifikācija?
+### Kāda Arduino NANO specifikācija?
 
 @snapend
 
@@ -63,7 +63,7 @@ Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolie
 ![IMAGE](http://cdn1.shopium.ua/d/arduino/uploads/nano-pinout.jpg)
 @snapend
 
-@snap[south span-100 text-white]
+@snap[south span-50 text-white]
 Tai ir vairāk vai mazāk tāda pati arduino Duemilanove funkcionalitāte, bet citā paketē. Tam trūkst tikai līdzstrāvas kontaktligzdas, un tas darbojas ar MINI-USB kabeli, nevis standarta kabeli.
 @snapend
 
