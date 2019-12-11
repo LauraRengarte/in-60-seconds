@@ -98,19 +98,7 @@ Kā programmēt Arduino?
 @snapend
 
 ```sql zoom-18
-const int led = 2; //Tiek norādīts pie kura pina pievienota diode  
- 
-void setup() {  
-  pinMode(led, OUTPUT); //norāda, ka led ir izeja
-} 
- 
-void loop() {  
-  digitalWrite(led, HIGH); //ieslēdz diodi
-  delay(1000); //nosaka cik ilgi deg diode(1 sek. pauze) 
- 
-  digitalWrite(led, LOW); //izslēdz diodi
-  delay(1000); //nosaka cik ilgi diode ir izslēgta     
-} 
+
 ```
 
 @snap[south span-100 text-gray text-08]
