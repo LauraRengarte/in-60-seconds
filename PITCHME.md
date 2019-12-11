@@ -136,7 +136,7 @@ Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN 
 #### Projekti, vēlētos īstenot:
 @snapend
 
-@snap[west span-70]
+@snap[west span-100]
 @ul[list-spaced-bullets text-white text-09]
 - Smart cube-https://create.arduino.cc/projecthub/alberto-sartori/smart-cube-a-new-way-to-control-your-home-7d0283?ref=challenge&ref_id=43&offset=2
 - Motion-Sensitive Circuit Control via Intel Curie-https://create.arduino.cc/projecthub/kuzma/motion-sensitive-circuit-control-via-intel-curie-b6db0a?ref=challenge&ref_id=43&offset=11
