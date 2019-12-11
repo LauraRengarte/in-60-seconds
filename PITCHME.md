@@ -102,7 +102,7 @@ void setup() {
  
 void loop() {  
   digitalWrite(led, HIGH); //ieslēdz diodi
-  delay(1000); //pauze programma 1 sekunžu garumā (cipars apzīmē milisekundes), nosaka cik ilgi deg diode 
+  delay(1000); //nosaka cik ilgi deg diode(1 sek. pauze) 
  
   digitalWrite(led, LOW); //izslēdz diodi
   delay(1000); //nosaka cik ilgi diode ir izslēgta     
