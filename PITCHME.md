@@ -60,7 +60,7 @@ Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolie
 @snapend
 
 @snap[east span-50]
-![IMAGE](https://www.google.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiwpaCoqK7mAhX58KYKHe0UDwIQjRx6BAgBEAQ&url=http%3A%2F%2Fetwinning.lv%2Fwp-content%2Fuploads%2F2017%2F09%2Frobotika_etwinnings_gramata.pdf&psig=AOvVaw2HDZapK_QORvfpKqqLGdg_&ust=1576178371176653)
+![IMAGE](https://images.app.goo.gl/U2PDymW1bx7TQBeb6)
 @snapend
 
 @snap[south span-100 text-white]
