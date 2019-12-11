@@ -44,7 +44,7 @@ Atmega 328 ir vienas mikroshēmas mikrokontrolieris.
 @snapend
 
 @snap[east span-50]
-![IMAGE](https://www.google.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjsu9_qlq7mAhVXwsQBHb3ZCLcQjRx6BAgBEAQ&url=https%3A%2F%2Faktyalnoe.online%2Fp%2Farduino-nano-v3-0-atmega328p%2F&psig=AOvVaw2BQINwIO3mGs5RUtbRK1dp&ust=1576173388481853)
+![IMAGE](https://www.google.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwicj9Xcl67mAhVFxaYKHXvGDKQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.sumozade.com%2Farduino-nano-328-clone-with-usb-cable&psig=AOvVaw2BQINwIO3mGs5RUtbRK1dp&ust=1576173388481853)
 @snapend
 
 @snap[south span-100 text-white]
