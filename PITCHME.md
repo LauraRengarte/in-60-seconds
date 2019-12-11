@@ -128,8 +128,8 @@ Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN 
 ---?color=linear-gradient(90deg, #5384AD 75%, white 25%)
 @title[Add A Little Imagination]
 
-@snap[north-east h4-#5384AD]
-#### Projekti,kurus vēlētos īstenot:
+@snap[north-east span-100 text-pink text-06]
+Projekti, kurus vēlētos īstenot
 @snapend
 
 @snap[west span-100]
