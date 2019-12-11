@@ -140,7 +140,7 @@ Projekti, kurus vēlētos īstenot
 @ulend
 @snapend
 
----?image=https://yt3.ggpht.com/-XW1x_JT1g24/AAAAAAAAAAI/AAAAAAAAAAA/lMWjeVh_HEw/s900-c-k-no/photo.jpg
+---?
 
 @snap[north span-100 h2-white]
 ## Paldies par uzmanību!
