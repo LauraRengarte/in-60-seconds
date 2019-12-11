@@ -93,7 +93,7 @@ Tai ir gandrīz tāda pati arduino Duemilanove funkcionalitāte, bet citā paket
 Kā programmēt Arduino?
 @snapend
 
-@snap[east span-45]
+@snap[west span-60]
 @img[shadow](http://www.littlearmrobot.com/uploads/3/8/4/8/38484491/arduino-blink-led-basic-code_orig.jpg)
 @snapend
 
