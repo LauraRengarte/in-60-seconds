@@ -51,7 +51,7 @@ Atmega 328 ir vienas mikroshēmas mikrokontrolieris.
 Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolieri. 
 @snapend
 
----?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 70%, black 30%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
