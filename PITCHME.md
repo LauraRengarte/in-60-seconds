@@ -1,10 +1,10 @@
-# Let's Get Started
+# ARDUINO
 
 ---
 
-## Add Some Slide Candy
+## Vārds Arduino aizgūts no Ivreas bāra, kur pulcējās daži projekta dibinātāji.
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](https://external-preview.redd.it/BCZ_-ppi_D9nKLvrYaITvX3gUy-Y5VrRyCXCdfvOuDU.jpg?auto=webp&s=ae019640d8bfa40c5cd87a9405a2409f5de3f404)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
