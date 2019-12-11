@@ -59,7 +59,7 @@ Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolie
 
 @snapend
 
-@snap[eastnorth span-30]
+@snap[east span-25]
 ![IMAGE](http://cdn1.shopium.ua/d/arduino/uploads/nano-pinout.jpg)
 @snapend
 
