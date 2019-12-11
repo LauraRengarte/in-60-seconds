@@ -44,11 +44,11 @@ Atmega 328 ir vienas mikroshēmas mikrokontrolieris.
 @snapend
 
 @snap[east span-50]
-![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png)
+![IMAGE](https://www.google.lv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiEyqfPla7mAhUPwcQBHfW2Cj4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fv3-atmega-328p-arduino-nano-unsoldered-14078661391.html&psig=AOvVaw2BQINwIO3mGs5RUtbRK1dp&ust=1576173388481853)
 @snapend
 
 @snap[south span-100 text-white]
-Arduino ir elektronikas un programmatūras platforma.
+Arduino Nano ir prototipēšanas platforma bāzēta uz Atmega 328 mikrokontrolieri. 
 @snapend
 
 
