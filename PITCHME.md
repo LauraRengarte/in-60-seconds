@@ -97,16 +97,60 @@ Kā programmēt Arduino?
 @img[shadow](http://www.littlearmrobot.com/uploads/3/8/4/8/38484491/arduino-blink-led-basic-code_orig.jpg)
 @snapend
 
-```sql zoom-18
+---?color=linear-gradient(180deg, white 60%, black 40%)
+@title[Customize Slide Layout]
 
-```
+@snap[west span-50]
+### Kas ir I/O pini?
 
-@snap[south span-100 text-gray text-08]
-@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
-@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
-@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
 @snapend
 
+@snap[east span-25]
+![IMAGE](http://cdn1.shopium.ua/d/arduino/uploads/nano-pinout.jpg)
+@snapend
+
+@snap[south span-100 text-white]
+Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN uz integrētas shēmas vai elektronisko shēmu plates, kuru uzvedība-ieskaitot to, vai tas darbojas kā ieejas vai izejas-ir kontrolējama lietotājs izpildes laikā.
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Add A Little Imagination]
+
+@snap[north-west h4-white]
+#### Vietas, kur meklēt informāciju par Arduino:
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-white text-09]
+- https://www.arduino.cc/
+- https://hackaday.com/tag/arduino/
+- https://www.orient.lv/arduino/
+- https://opensource.com/resources/what-arduino
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](https://osphotonics.files.wordpress.com/2014/08/dccduino2.png)
+@snapend
+
+---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+@title[Add A Little Imagination]
+
+@snap[north-west h4-white]
+#### Projekti, vēlētos īstenot:
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-white text-09]
+- Smart cube-https://create.arduino.cc/projecthub/alberto-sartori/smart-cube-a-new-way-to-control-your-home-7d0283?ref=challenge&ref_id=43&offset=2
+- Motion-Sensitive Circuit Control via Intel Curie-https://create.arduino.cc/projecthub/kuzma/motion-sensitive-circuit-control-via-intel-curie-b6db0a?ref=challenge&ref_id=43&offset=11
+- Music Reactive LED Strip-https://create.arduino.cc/projecthub/buzzandy/music-reactive-led-strip-5645ed?ref=platform&ref_id=424_trending___&offset=86
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](https://osphotonics.files.wordpress.com/2014/08/dccduino2.png)
+@snapend
 
 ---?image=assets/img/presenter.jpg
 
