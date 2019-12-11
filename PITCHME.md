@@ -140,12 +140,8 @@ Projekti, kurus vēlētos īstenot
 @ulend
 @snapend
 
----?image=assets/img/presenter.jpg
+---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png
 
 @snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+## Paldies par uzmanību!
 @snapend
