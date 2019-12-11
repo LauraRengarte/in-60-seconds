@@ -129,10 +129,6 @@ Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN 
 @ulend
 @snapend
 
-@snap[east span-45]
-@img[shadow](https://osphotonics.files.wordpress.com/2014/08/dccduino2.png)
-@snapend
-
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
 
@@ -140,16 +136,12 @@ Vispārējas nozīmes ieejas/izejas (GPIO) ir neatbilstīgs ciparu signāla PIN 
 #### Projekti, vēlētos īstenot:
 @snapend
 
-@snap[west span-55]
+@snap[west span-70]
 @ul[list-spaced-bullets text-white text-09]
 - Smart cube-https://create.arduino.cc/projecthub/alberto-sartori/smart-cube-a-new-way-to-control-your-home-7d0283?ref=challenge&ref_id=43&offset=2
 - Motion-Sensitive Circuit Control via Intel Curie-https://create.arduino.cc/projecthub/kuzma/motion-sensitive-circuit-control-via-intel-curie-b6db0a?ref=challenge&ref_id=43&offset=11
 - Music Reactive LED Strip-https://create.arduino.cc/projecthub/buzzandy/music-reactive-led-strip-5645ed?ref=platform&ref_id=424_trending___&offset=86
 @ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](https://osphotonics.files.wordpress.com/2014/08/dccduino2.png)
 @snapend
 
 ---?image=assets/img/presenter.jpg
