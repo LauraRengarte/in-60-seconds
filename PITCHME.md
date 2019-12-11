@@ -71,20 +71,20 @@ Tai ir gandrīz tāda pati arduino Duemilanove funkcionalitāte, bet citā paket
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
-#### And start presenting...
+#### Kā sagatavoties darbam ar Arduino?
 @snapend
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-white text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Vajadzīgs Arduino NANO;
+- Arduino IDE;
+- Jāsavieno...;
+- Jāķeras pie darba.
 @ulend
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](https://osphotonics.files.wordpress.com/2014/08/dccduino2.png)
 @snapend
 
 ---
