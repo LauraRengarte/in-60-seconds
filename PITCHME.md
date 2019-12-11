@@ -44,7 +44,7 @@ Atmega 328 ir vienas mikroshēmas mikrokontrolieris.
 @snapend
 
 @snap[east span-50]
-![IMAGE](https://binged.it/34dw1K5)
+![IMAGE](https://www.electronics-lab.com/wp-content/uploads/2017/02/ARDUINO_NANO.png)
 @snapend
 
 @snap[south span-100 text-white]
