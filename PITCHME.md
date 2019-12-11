@@ -140,7 +140,7 @@ Projekti, kurus vēlētos īstenot
 @ulend
 @snapend
 
----?image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png
+---?image=https://yt3.ggpht.com/-XW1x_JT1g24/AAAAAAAAAAI/AAAAAAAAAAA/lMWjeVh_HEw/s900-c-k-no/photo.jpg
 
 @snap[north span-100 h2-white]
 ## Paldies par uzmanību!
